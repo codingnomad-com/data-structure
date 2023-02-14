@@ -20,6 +20,7 @@ export default {
                   // results in 1 column since it has only 1 object in columns
                   {
                     id: 'randomId5',
+                    colWidth: 12,
                     components: [
                       {
                         id: 'randomId6',
@@ -76,6 +77,7 @@ export default {
                   // results in 2 column since it has 2 objects in columns
                   {
                     id: 'randomId10',
+                    colWidth: 4,
                     components: [
                       {
                         id: 'randomId11',
@@ -90,6 +92,7 @@ export default {
                   },
                   {
                     id: 'randomId12',
+                    colWidth: 6,
                     components: [
                       {
                         id: 'randomId13',
